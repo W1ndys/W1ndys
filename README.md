@@ -6,6 +6,4 @@ Hi，我是W1ndys👋
 
 博客：https://blog.w1ndys.top/
 
-<div align="center">
-  <img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/abdulrahim-Ramadan.gif" width="600" height="450"/>
-</div>
+<img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image"><span style='font-size: 50px; width: 20%;'>__Contact Me__</span><img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image">
