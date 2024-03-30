@@ -6,4 +6,8 @@ Hi，我是W1ndys👋
 
 博客：https://blog.w1ndys.top/
 
-<img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image"><span style='font-size: 50px; width: 20%;'>__Contact Me__</span><img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/output/github-contribution-grid-snake.svg">
+</picture>
