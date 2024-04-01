@@ -13,3 +13,7 @@ Hi，我是W1ndys👋
 </picture>
 
 上面图片svg来自 https://github.com/abdulrahim-ramadan
+
+![](https://stats.deeptrain.net/user/W1ndys?theme=light)
+
+
