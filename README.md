@@ -14,10 +14,10 @@ Hi，我是W1ndys👋
 
 上面图片svg来自 https://github.com/abdulrahim-ramadan
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=W1ndys" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=W1ndys" />
 </a>
 
