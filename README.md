@@ -13,3 +13,7 @@ Hi，我是W1ndys👋
 </picture>
 
 上面图片svg来自 https://github.com/abdulrahim-ramadan
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=W1ndys)](https://github.com/anuraghazra/github-readme-stats)
+
