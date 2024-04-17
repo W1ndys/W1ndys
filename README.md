@@ -8,5 +8,5 @@ Hi，我是W1ndys👋
 
 博客：https://blog.w1ndys.top/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W1ndys)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=W1ndys)](https://github.com/anuraghazra/github-readme-stats)
 
