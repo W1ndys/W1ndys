@@ -20,6 +20,5 @@
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=W1ndys" alt="W1ndys's GitHub stats" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W1ndys" alt="Top Langs" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=W1ndys&show_icons=true&theme=algolia" alt="WakaTime stats" /></td>
   </tr>
 </table>
