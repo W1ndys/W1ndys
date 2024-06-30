@@ -22,3 +22,7 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W1ndys" alt="Top Langs" /></td>
   </tr>
 </table>
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=W1ndys)](https://github.com/ryo-ma/github-profile-trophy)
