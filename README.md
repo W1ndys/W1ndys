@@ -2,7 +2,9 @@
 
 目前是啥项目也没有
 
-你可以问我关于`Hexo博客搭建`,`Mkdocs-material`,`Python`文档站搭建的相关问题
+你可以问我关于`Hexo博客搭建`、`Mkdocs-material`、`Python`的相关问题
+
+一个被AI深度毒害的网安程序员大学生
 
 ## 关于我
 
