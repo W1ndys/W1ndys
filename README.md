@@ -22,20 +22,16 @@
 ## 📊 统计数据
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=W1ndys&show_icons=true&theme=vue" />
-</div>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W1ndys&layout=compact&theme=vue" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=W1ndys&show_icons=true&theme=vue" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W1ndys&layout=compact&theme=vue" />
 </div>
 
 ## 🏆 成就
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=W1ndys&theme=flat&column=7" />
+    <img src="https://github-profile-trophy.vercel.app/?username=W1ndys&theme=flat&column=4&margin-w=15&margin-h=15" />
 </div>
 
-<!-- 添加访问计数器 -->
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=W1ndys&color=brightgreen" alt="访问量统计" />
 </div>
