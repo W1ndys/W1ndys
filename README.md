@@ -20,7 +20,7 @@
   自动化预约曲阜师范大学图书馆座位，简化预约流程，提高成功率。  
 
 - **[Easy-QFNU](https://github.com/W1ndys/Easy-QFNU)**  
-  旨在简化曲阜师范大学教务系统相关操作，提供更便捷的用户体验。  
+  Easy-QFNU手册，让你的QFNU更简单～
 
 - **[QFNULogin](https://github.com/W1ndys/QFNULogin)**  
   曲阜师范大学统一身份认证自动登录工具，支持模拟登录、验证码识别等功能。  
