@@ -28,7 +28,7 @@
 - **[W1ndysBot](https://github.com/W1ndys/W1ndysBot)**  
   个人定制的机器人，具备自动化管理、消息处理等功能，可用于 QQ 机器人或其他 IM 机器人平台。  
 
-- **[曲阜师范大学选课脚本](https://github.com/W1ndys/QFNUCourseSelector)**  
+- **[QFNUCourseSelector](https://github.com/W1ndys/QFNUCourseSelector)**  
   选课自动化工具，提高选课效率，避免手动重复操作导致的失误。  
 
 - **[QFNUFreeClassroomsFinder](https://github.com/W1ndys/QFNUFreeClassroomsFinder)**  
