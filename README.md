@@ -16,7 +16,7 @@
 
 ### 曲阜师范大学相关脚本和工具  
 
-- **[曲阜师范大学图书馆预约脚本](https://github.com/W1ndys/QFNULibraryBook)**  
+- **[QFNULibraryBook](https://github.com/W1ndys/QFNULibraryBook)**  
   自动化预约曲阜师范大学图书馆座位，简化预约流程，提高成功率。  
 
 - **[Easy-QFNU](https://github.com/W1ndys/Easy-QFNU)**  
