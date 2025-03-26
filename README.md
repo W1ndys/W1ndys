@@ -1,7 +1,7 @@
 # 你好，我是 W1ndys 👋
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C9678&random=false&width=435&lines=一个被AI深度毒害的网安程序员;CTF爱好者%2C+最爱Web和Python" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C9678&random=false&width=435&lines=网络安全;CTF爱好者%2C+钟爱Web、Python" alt="Typing SVG" />
 </div>
 
 ## 🎯 关于我
