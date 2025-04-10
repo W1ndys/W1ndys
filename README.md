@@ -24,7 +24,7 @@
   曲阜师范大学统一身份认证自动登录工具，支持模拟登录、验证码识别等功能。  
 
 - **[W1ndysBot](https://github.com/W1ndys/W1ndysBot)**  
-  个人定制的机器人，具备自动化管理、消息处理等功能，可用于 QQ 机器人或其他 IM 机器人平台。  
+  基于NapCatQQ和Python的QQ机器人实现
 
 - **[QFNUCourseSelector](https://github.com/W1ndys/QFNUCourseSelector)**  
   选课自动化工具，提高选课效率，避免手动重复操作导致的失误。  
