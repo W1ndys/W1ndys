@@ -44,6 +44,9 @@
 - **[QFNUScoreReminder](https://github.com/W1ndys/QFNUScoreReminder)**  
   教务系统成绩查询和提醒工具，自动获取最新成绩并推送通知。  
 
+- **[QFNU-Auto-XSPJ](https://github.com/W1ndys/QFNU-Auto-XSPJ)**  
+  曲阜师范大学强智教务自动化学生评价工具，自动完成学生评教流程，提高评教效率。
+
 ## 🔗 联系我
 
 <div align="left">
