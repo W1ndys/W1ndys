@@ -19,9 +19,6 @@
         <img src="https://img.shields.io/badge/👨‍💻_Developer-W1ndys-blue?style=for-the-badge" />
       </td>
       <td>
-        <img src="https://img.shields.io/badge/📍_Location-中国-green?style=for-the-badge" />
-      </td>
-      <td>
         <img src="https://img.shields.io/badge/🎓_Major-网络安全-orange?style=for-the-badge" />
       </td>
     </tr>
@@ -41,17 +38,20 @@
 <td width="50%">
 
 **🎯 专业方向**
-- 🛡️ 网络安全专业在读
+
+- 🛡️ 网络空间安全专业
 - 🏆 CTF 竞赛参与者
-- 🐍 Python 脚本开发
+- 🐍 Python 自动化脚本开发
 
 </td>
 <td width="50%">
 
 **🌱 学习进行时**
-- 🔥 网络安全技术
-- 🚀 Python 高级编程
-- 🕷️ 爬虫 & JS 逆向
+
+- 🔥 网络安全技术、Web
+- 🚀 Python 后端开发
+- 🌐 Go 语言后端开发
+- 🕷️ 爬虫
 - 🐍 自动化工具开发
 
 </td>
@@ -62,12 +62,10 @@
 
 <div align="center">
 
-![Web Security](https://img.shields.io/badge/-Web%20Security-FF6B6B?style=flat-square&logo=shield&logoColor=white)
 ![CTF](https://img.shields.io/badge/-CTF-4ECDC4?style=flat-square&logo=flag&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Automation](https://img.shields.io/badge/-Automation-45B7D1?style=flat-square&logo=robot&logoColor=white)
-![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-96CEB4?style=flat-square&logo=spider&logoColor=white)
-![JS Reverse](https://img.shields.io/badge/-JS%20Reverse-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 </div>
 
@@ -128,21 +126,20 @@
 ### 编程语言
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### 框架与工具
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Requable](https://img.shields.io/badge/Requable-FF6B6B?style=for-the-badge&logo=shield&logoColor=white)
 
 ### 专业领域
 
 ![Security](https://img.shields.io/badge/Web_Security-FF6B6B?style=for-the-badge&logo=shield&logoColor=white)
 ![CTF](https://img.shields.io/badge/CTF-4ECDC4?style=for-the-badge&logo=flag&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-45B7D1?style=for-the-badge&logo=robot&logoColor=white)
 
 </div>
 
