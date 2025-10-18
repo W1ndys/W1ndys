@@ -48,11 +48,11 @@
 
 ## 📈 GitHub 统计
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=W1ndys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=W1ndys&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W1ndys&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api?username=W1ndys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api?username=W1ndys&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W1ndys&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=W1ndys&theme=radical&hide_border=true" alt="GitHub Streak" />
-<img src="https://github-profile-trophy.vercel.app/?username=W1ndys&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=W1ndys&theme=radical&no-frame=true" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=W1ndys&theme=react-dark&hide_border=true" />
 
 ---
