@@ -48,7 +48,6 @@
 
 ## 📈 GitHub 统计
 
-<img src="https://github-readme-stats.vercel.app/api?username=W1ndys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 <img src="https://github-readme-stats.vercel.app/api?username=W1ndys&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W1ndys&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=W1ndys&theme=radical&hide_border=true" alt="GitHub Streak" />
