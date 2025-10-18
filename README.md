@@ -1,9 +1,6 @@
 # 👋 你好，我是 W1ndys
 
-<div align="left">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=网络安全爱好者;CTF+选手;Python;Golang;自动化工具" alt="Typing SVG" />
-</div>
-
+> AI 工具重度依赖症患者。
 > 满招损，谦受益。
 
 <div align="left">
