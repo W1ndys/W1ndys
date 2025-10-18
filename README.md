@@ -1,6 +1,6 @@
 # 👋 你好，我是 W1ndys
 
-<div align="center">
+<div align="left">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=网络安全爱好者;CTF+选手;Python;Golang;自动化工具" alt="Typing SVG" />
 </div>
 
@@ -35,8 +35,6 @@
 ![Requable](https://img.shields.io/badge/-Requable-FF6B6B?style=flat-square&logo=shield&logoColor=white)
 
 ## 🚀 我的项目
-
-### 🏫 曲阜师范大学工具生态
 
 - 📚 [QFNULibraryBook](https://github.com/W1ndys/QFNULibraryBook) - 智能图书馆座位预约系统，提高预约成功率
 - 🎯 [QFNUCourseSelector](https://github.com/W1ndys/QFNUCourseSelector) - 自动化选课工具，告别手动抢课烦恼
