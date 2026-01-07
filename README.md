@@ -1,6 +1,6 @@
 # 👋 你好，我是 W1ndys
 
-> AI 工具重度依赖症患者。
+> AI 工具重度依赖
 > 
 > 满招损，谦受益。
 
@@ -12,8 +12,8 @@
 
 ## 🎯 关于我
 
-- 🎓 网络空间安全专业起手的个人开发爱好者
-- 🔧 热衷于自动化工具开发与抓包研究
+- 🎓 网络空间安全专业
+- 🔧 热衷于自动化工具开发与抓包研究、工具编写、AI应用
 - 🚩 CTF 爱好者
 - 🤖 QQ 机器人/微信公众号机器人开发
 
@@ -57,5 +57,3 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=感谢访问我的主页!;Let's+make+something+awesome+together!" alt="Footer Typing SVG" />
 </div>
-
-**"摸鱼，代码，脚本，自动化"** 🛡️
