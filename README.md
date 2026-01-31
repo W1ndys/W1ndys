@@ -23,6 +23,10 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![TAILWIND](https://img.shields.io/badge/-TAILWIND-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![AXIOS](https://img.shields.io/badge/-AXIOS-5A29E4?style=flat-square&logo=axios&logoColor=white)
+![Alpine](https://img.shields.io/badge/-Alpine-8BC0D0?style=flat-square&logo=alpinejs&logoColor=white)
 
 ### 框架与工具
 
@@ -33,7 +37,8 @@
 ![Requable](https://img.shields.io/badge/-Requable-FF6B6B?style=flat-square&logo=shield&logoColor=white)
 
 ## 🚀 我的项目
-
+- 🌐 [easy-qfnu-api-go](https://github.com/W1ndys/easy-qfnu-api-go) - QFNU 综合校园服务网关，基于 Go (Gin) 构建的一站式校园数据中心
+- 🔐 [qfnu-cas-go](https://github.com/W1ndys/qfnu-cas-go) - 使用 Go 语言实现的 QFNU 统一身份认证登录开发骨架
 - 📚 [QFNULibraryBook](https://github.com/W1ndys/QFNULibraryBook) - 智能图书馆座位预约系统，提高预约成功率
 - 🎯 [QFNUCourseSelector](https://github.com/W1ndys/QFNUCourseSelector) - 自动化选课工具，告别手动抢课烦恼
 - ✍️ [QFNU-Auto-XSPJ](https://github.com/W1ndys/QFNU-Auto-XSPJ) - 一键学生评教，自动化完成评教流程
