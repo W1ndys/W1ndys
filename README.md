@@ -55,18 +55,14 @@
 ## 📈 GitHub 统计
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=W1ndys&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W1ndys&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=W1ndys&theme=github_dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=W1ndys&theme=github_dark&no-frame=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=W1ndys&theme=github-dark&hide_border=true" width="100%" />
 </p>
+
+## 🔥 最近动态
+
+- 🚀 **校园工具开发** - 持续优化QFNU系列校园工具，提升用户体验
+- 🤖 **机器人开发** - 扩展QQ机器人的功能，增加更多实用特性  
+- 📚 **技术学习** - 深入研究AI/AGENT开发，探索自动化新可能
 
 ---
 
