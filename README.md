@@ -21,24 +21,23 @@
 
 ## 技术栈 & 工具
 
-### 编程语言
+### 后端开发
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
-### Web 开发
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TAILWIND](https://img.shields.io/badge/-TAILWIND-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Alpine](https://img.shields.io/badge/-Alpine-8BC0D0?style=flat-square&logo=alpinejs&logoColor=white)
-![AXIOS](https://img.shields.io/badge/-AXIOS-5A29E4?style=flat-square&logo=axios&logoColor=white)
-
-### 框架与工具
-
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Gin](https://img.shields.io/badge/-Gin-80E0FF?style=flat-square&logo=go&logoColor=black)
+
+### 前端开发
+
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TAILWIND](https://img.shields.io/badge/-TAILWIND-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### 开发工具
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
