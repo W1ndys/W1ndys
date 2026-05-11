@@ -5,9 +5,9 @@
 > 满招损，谦受益。
 
 <div align="left">
-    <img src="https://komarev.com/ghpvc/?username=W1ndys&color=0e75b6&style=flat&label=Profile+Views" alt="访问量统计" />
-    <img src="https://img.shields.io/github/followers/W1ndys?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
-    <img src="https://img.shields.io/github/stars/W1ndys?label=Profile+Stars&style=flat&color=0e75b6" alt="GitHub User's stars" />
+    <img src="https://komarev.com/ghpvc/?username=W1ndys&color=0e75b6&style=flat-square&label=Profile+Views" alt="访问量统计" />
+    <img src="https://img.shields.io/github/followers/W1ndys?label=Followers&style=flat-square&color=0e75b6" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/stars/W1ndys?label=Profile+Stars&style=flat-square&color=0e75b6" alt="GitHub User's stars" />
 </div>
 
 ## 🎯 关于我
@@ -17,6 +17,7 @@
 - 🚩 CTF 爱好者
 - 🤖 QQ 机器人/微信公众号机器人开发
 - ✍️ 正在学习 AI / AGENT 开发相关知识
+- 💡 专注于解决校园生活中的实际问题，让技术服务于日常需求
 
 ## 技术栈 & 工具
 
@@ -38,25 +39,34 @@
 ![Requable](https://img.shields.io/badge/-Requable-FF6B6B?style=flat-square&logo=shield&logoColor=white)
 
 ## 🚀 我的项目
-- 🌐 [easy-qfnu-api-go](https://github.com/W1ndys/easy-qfnu-api-go) - QFNU 综合校园服务网关，基于 Go (Gin) 构建的一站式校园数据中心
-- 🔐 [qfnu-cas-go](https://github.com/W1ndys/qfnu-cas-go) - 使用 Go 语言实现的 QFNU 统一身份认证登录开发骨架
-- 📚 [QFNULibraryBook](https://github.com/W1ndys/QFNULibraryBook) - 智能图书馆座位预约系统，提高预约成功率
-- 🎯 [QFNUCourseSelector](https://github.com/W1ndys/QFNUCourseSelector) - 自动化选课工具，告别手动抢课烦恼
-- ✍️ [QFNU-Auto-XSPJ](https://github.com/W1ndys/QFNU-Auto-XSPJ) - 一键学生评教，自动化完成评教流程
-- 📅 [QFNUGetClasstable](https://github.com/W1ndys/QFNUGetClasstable) - 课程表获取与 ICS 日历导出
-- 📊 [QFNUScoreReminder](https://github.com/W1ndys/QFNUScoreReminder) - 成绩查询与智能提醒系统
-- 🏫 [QFNUFreeClassroomsFinder](https://github.com/W1ndys/QFNUFreeClassroomsFinder) - 空教室实时查询工具
-- 🔐 [QFNULogin](https://github.com/W1ndys/QFNULogin) - 强智教务模拟登录工具
-- 🤖 [W1ndysBot](https://github.com/W1ndys/W1ndysBot) - QQ 机器人智能助手
-- 📱 [QRCodeDetection](https://github.com/W1ndys/QRCodeDetection) - 二维码识别工具
+
+- 🌐 **[easy-qfnu-api-go](https://github.com/W1ndys/easy-qfnu-api-go)** - QFNU 综合校园服务网关，基于 Go (Gin) 构建的一站式校园数据中心，整合多个校园服务接口
+- 🔐 **[qfnu-cas-go](https://github.com/W1ndys/qfnu-cas-go)** - 使用 Go 语言实现的 QFNU 统一身份认证登录开发骨架，为其他校园工具提供认证基础
+- 📚 **[QFNULibraryBook](https://github.com/W1ndys/QFNULibraryBook)** - 智能图书馆座位预约系统，通过自动化策略提高预约成功率，解决抢座难题
+- 🎯 **[QFNUCourseSelector](https://github.com/W1ndys/QFNUCourseSelector)** - 自动化选课工具，告别手动抢课烦恼，支持课程监控和自动选择
+- ✍️ **[QFNU-Auto-XSPJ](https://github.com/W1ndys/QFNU-Auto-XSPJ)** - 一键学生评教，自动化完成评教流程，节省时间提高效率
+- 📅 **[QFNUGetClasstable](https://github.com/W1ndys/QFNUGetClasstable)** - 课程表获取与 ICS 日历导出，方便同步到各类日历应用
+- 📊 **[QFNUScoreReminder](https://github.com/W1ndys/QFNUScoreReminder)** - 成绩查询与智能提醒系统，及时获取成绩更新通知
+- 🏫 **[QFNUFreeClassroomsFinder](https://github.com/W1ndys/QFNUFreeClassroomsFinder)** - 空教室实时查询工具，帮助快速找到可用的学习空间
+- 🔐 **[QFNULogin](https://github.com/W1ndys/QFNULogin)** - 强智教务模拟登录工具，为教务相关自动化提供登录支持
+- 🤖 **[W1ndysBot](https://github.com/W1ndys/W1ndysBot)** - QQ 机器人智能助手，提供多种实用功能和服务
+- 📱 **[QRCodeDetection](https://github.com/W1ndys/QRCodeDetection)** - 二维码识别工具，支持多种场景下的二维码检测与解析
 
 ## 📈 GitHub 统计
 
-<img src="https://github-readme-stats.vercel.app/api?username=W1ndys&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W1ndys&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=W1ndys&theme=radical&hide_border=true" alt="GitHub Streak" />
-<img src="https://github-profile-trophy.vercel.app/?username=W1ndys&theme=radical&no-frame=true" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=W1ndys&theme=react-dark&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=W1ndys&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W1ndys&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=W1ndys&theme=github_dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=W1ndys&theme=github_dark&no-frame=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=W1ndys&theme=github-dark&hide_border=true" width="100%" />
+</p>
 
 ---
 
