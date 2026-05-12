@@ -43,7 +43,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Requable](https://img.shields.io/badge/-Requable-FF6B6B?style=flat-square&logo=shield&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-FF6B6B?style=flat-square&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat-square&logo=https://chatgpt.com/favicon.ico&logoColor=white)
 ![MonkeyCode](https://img.shields.io/badge/-MonkeyCode-8A2BE2?style=flat-square&logo=https://monkeycode-ai.com/logo-light.png&logoColor=white)
 
 ## 🚀 我的项目
